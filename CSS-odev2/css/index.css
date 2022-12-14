@@ -1,0 +1,103 @@
+ .image {  /*Google ikonu için gerekli olan arayüz */
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 351px;
+    height: 113px;
+
+}
+
+.btn {
+    background-color:whitesmoke;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left:0px ;
+    padding: 1px;
+    margin-left: 270px;
+    margin-right: 270px;
+     
+}
+
+/* .btn2 {
+    background-color:whitesmoke;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left:0px ;
+    padding: 1px;
+    margin-left: 270px;
+    margin-right: 270px;
+} */
+
+.search-bar {
+    background-color: whitesmoke;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+    margin-bottom: -8px;
+    margin-left: 270px;
+    margin-right: 270px;
+    
+
+}
+
+.left-schema {
+    background-color: #00f7d2a6;
+    align-items: flex-start;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    padding: 14px 15px;
+    width: 350px;
+    height: 60px;
+    margin-top: 0px;
+    margin-left: 270px;
+    float: left;
+
+
+}
+
+.mid-schema {
+    background-color:#00f7c2d4;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 4.5px 18px;
+    width: 250px;
+    height: 79px;
+    margin-top:0px;
+    margin-right: 78px;
+       
+}
+
+.right-schema {
+    background-color:#00f7bdf5 ;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 0.3px 11px;
+    width: 292px;
+    height: 88px;
+    font-size: large;
+    margin-top: -88.5px;
+    margin-right:270px;
+    float: right;
+    
+} 
+
+ /* .schema {
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    
+}  */
